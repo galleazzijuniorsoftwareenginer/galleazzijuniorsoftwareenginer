@@ -13,8 +13,6 @@ I enjoy creating practical software solutions that automate workflows and solve 
 AI-powered backend tool that analyzes GitHub activity and generates developer daily standup reports.
 
 Live Demo:  
-https://nutrielite-production-e88f.up.railway.app/app/
-
 https://ai-standup-generator-production.up.railway.app  
 
 API Docs:  
@@ -26,6 +24,9 @@ https://ai-standup-generator-production.up.railway.app/docs
 SaaS backend platform for automated nutritional plan calculation and clinical PDF report generation.
 
 Live Demo:  
+https://nutrielite-production-e88f.up.railway.app/app/
+
+
 https://nutrielite-production-e88f.up.railway.app  
 
 API Docs:  

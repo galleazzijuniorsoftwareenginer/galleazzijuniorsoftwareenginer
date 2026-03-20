@@ -12,6 +12,10 @@ I enjoy creating practical software solutions that automate workflows and solve 
 ### AI Standup Generator
 AI-powered backend tool that analyzes GitHub activity and generates developer daily standup reports.
 
+
+Live Frontend 
+https://ai-standup-generator-production.up.railway.app/app
+
 Live Demo:  
 https://ai-standup-generator-production.up.railway.app  
 
